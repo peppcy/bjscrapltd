@@ -1383,8 +1383,8 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 .banner-carousel:hover .carousel-control,
 .banner-carousel:hover .carousel-control,
-.banner-carousel:hover .slick-dots {
-  opacity: 1;
+.banner-carousel:hover .slick-dots:true {
+  opacity: 1; 
   filter: alpha(opacity=100);
 }
 
