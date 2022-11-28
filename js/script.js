@@ -149,7 +149,7 @@ jQuery(function ($) {
 				slidesToShow: 1,
 				slidesToScroll: 1,
 				autoplay: true,
-				dots: false,
+				dots: true,
 				speed: 600,
 				arrows: true,
 				prevArrow: '<button type="button" class="carousel-control left" aria-label="carousel-control"><i class="fas fa-chevron-left"></i></button>',
